@@ -1,0 +1,12 @@
+[package]
+name = "storage_endian"
+version = "0.1.0"
+authors = ["James Lee <jbit@jbit.net>"]
+edition = "2018"
+description = "Simple integer wrappers for explicitly defining storage endianess"
+keywords = ["no-std", "endian"]
+categories = ["no-std"]
+license = "BSD-2-Clause"
+
+[badges]
+maintenance = { status = "experimental" }
